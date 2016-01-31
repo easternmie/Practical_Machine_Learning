@@ -2,4 +2,4 @@
 
 ## Assignment: Prediction Assignment Writeup
 
-Result for the report should viewed in Git Hub page via this link <a target="_blank" href="http://easternmie.github.io">http://easternmie.github.io</a>
+As suggested by Coursera instruction, this index.html is hosted by gh-pages. So graders should be easier to evaluate my report in HTML format. The HTML page can be viewed online <a target="_blank" href="http://easternmie.github.io">http://easternmie.github.io</a>
