@@ -2,4 +2,4 @@
 
 ## Assignment: Prediction Assignment Writeup
 
-I will submit a repo with a gh-pages branch so the HTML page can be viewed online
+Result for the report should viewed in Git Hub page via this link [easternmie.github.io](http://easternmie.github.io)
